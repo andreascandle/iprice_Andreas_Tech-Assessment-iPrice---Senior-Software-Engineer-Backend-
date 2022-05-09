@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Warning":6,"ConvertStringTest::testConvertToUpperCase":3,"ConvertStringTest::testAlternateString":3,"ConvertStringTest::testExportCsv":4},"times":{"Warning":0.012,"ConvertStringTest::testConvertToUpperCase":0.022,"ConvertStringTest::testAlternateString":0,"ConvertStringTest::testExportCsv":0.003}}
